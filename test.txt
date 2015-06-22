@@ -6,4 +6,3 @@ banding
 master
 new
 a
-b
