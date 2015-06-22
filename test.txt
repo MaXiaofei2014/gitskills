@@ -4,3 +4,4 @@ feature1
 master modified.
 banding
 master
+new
